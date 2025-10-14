@@ -100,12 +100,13 @@ body {
 }
 
 .hero-body {
-  padding: 4rem 1.5rem;
+  padding: 2rem 1.5rem;
 }
 
 .teaser .hero-body {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  height: 400px;
 }
 
 .teaser {
@@ -275,7 +276,7 @@ body {
   box-shadow: var(--shadow-lg);
 }
 
-.results-carousel .item img,
+
 .results-carousel video {
   margin: 0;
   border-radius: var(--border-radius);
